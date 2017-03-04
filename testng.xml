@@ -1,0 +1,10 @@
+<suite name ="Testsuite">
+    <test name="Firefoxlaunch">
+        <classes>
+            <class name="Firefoxlaunch"/>
+        </classes>
+    </test>
+</suite>
+        C:\Users\Diamond\Desktop\Git Sample
+        "C:\Users\Diamond\Desktop\Gitsample"
+        "C:\Gitsample"
